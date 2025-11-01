@@ -1,1 +1,30 @@
 @import "tailwindcss";
+:root { 
+    --neon: #8cbeed; 
+    --yellow: #eaed8c; 
+}           /* Change this to your color */
+
+.neon{
+  color:#fff;
+  background:#0b0f1453;
+  border:2px solid var(--neon);
+  border-radius:14px;
+  padding:16px 22px;
+  box-shadow:
+    0 0 6px  var(--neon),
+    0 0 12px var(--neon),
+    inset 0 0 6px var(--neon);
+}
+
+
+.neon:hover {
+  color:#fff;
+  background:#05070b53;
+  border:2px solid var(--yellow);
+  border-radius:14px;
+  padding:16px 22px;
+  box-shadow:
+    0 0 6px  var(--yellow),
+    0 0 12px var(--yellow),
+    inset 0 0 6px var(--yellow);
+}

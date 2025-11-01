@@ -27,7 +27,7 @@ export default function Footer() {
         💻 GitHub
       </a>
       <a
-        href="https://www.linkedin.com/in/xiaoyuanlv"
+        href="https://www.linkedin.com/in/seintseintthu"
         target="_blank"
         class="px-5 py-3 rounded-xl bg-gray-900 border border-gray-700 hover:border-indigo-400 hover:text-indigo-400 transition-all"
       >
