@@ -27,13 +27,13 @@ export default function Hero() {
       <div class="text-center">
         <h1 class="text-5xl font-semibold tracking-tight text-balance text-white sm:text-7xl">Hello. I am Seint Seint Thu.( Xiao Yuan )</h1>
         <p class="mt-8 text-lg font-medium text-pretty text-gray-400 sm:text-xl/8">
-        Fullstack Developer 🌟 <br/>. 
+        App Developer 🌟 
         </p>
         <div class="mt-10 flex items-center justify-center gap-x-6">
           
-          <a href="/cv/xiaoyuanlv_cv.pdf"
-  download="xiaoyuanlv_cv.pdf" class="rounded-md bg-yellow-500 px-3.5 py-2.5 text-sm font-semibold text-white shadow-xs hover:bg-indigo-400 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-500">
-            Download Resume
+          <a href="/cv/xiaoyuanlv_cv.jpg"
+  download="xiaoyuanlv_cv.jpg" class="rounded-md bg-yellow-500 px-3.5 py-2.5 text-sm font-semibold text-white shadow-xs hover:bg-indigo-400 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-500">
+            Download CV
           </a>
           {/* <a href="#" class="text-sm font-semibold leading-6 text-white hover:text-gray-400">
             Explore My Universe <span aria-hidden="true">→</span>

@@ -31,7 +31,7 @@ export default function About() {
                 <li class="mt-4 text-gray-400">🌙 Birthday: 31st Jan 1989</li>
                 <li class="mt-4 text-gray-400">🌙 Birth Place: Yangon, Myanmar</li>
                 <li class="mt-4 text-gray-400">🌙 Education: B.C.Tech(Hons) UCSY. IADCS (NCC Edu)</li>
-                <li class="mt-4 text-gray-400">🌙 Speak: Burmese, Chinese, English, Korean, Japanese</li>
+                <li class="mt-4 text-gray-400">🌙 Speak: Burmese, Chinese, English, Korean</li>
             </ul>
     </div>
 
@@ -42,11 +42,6 @@ export default function About() {
         class="object-cover shadow-lg"
       />
 </div>
-
-
-
-
-
 
   </div>
 </section>
