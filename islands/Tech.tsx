@@ -152,6 +152,54 @@ export default function Tech() {
       </div>
 
 
+      {/* Project 6 */}
+      <div class="bg-gray-900 rounded-2xl overflow-hidden shadow-lg hover:scale-[1.02] transition-all">
+        <img
+          src="./cart.png"
+          alt="List"
+          class="w-[400px] h-[300px] object-cover"
+        />
+        <div class="p-6 text-left">
+          <h3 class="text-2xl font-semibold mb-2 text-yellow-400">
+             Flutter Ramen Shop
+          </h3>
+          <p class="text-gray-400 text-sm mb-4">
+            A simeple ramen shop app built with Flutter.
+          </p>
+          <a
+            href="https://drive.google.com/file/d/1Zhgu7iu0mc5StiHhEKk_HxfNM1KT3EXk/view?usp=sharing" target="_blank"
+            class="inline-block px-5 py-2 bg-yellow-600 hover:bg-indigo-700 rounded-xl font-medium transition-all"
+          >
+            Download Source Code
+          </a>
+        </div>
+      </div>
+
+
+       {/* Project 7 */}
+      <div class="bg-gray-900 rounded-2xl overflow-hidden shadow-lg hover:scale-[1.02] transition-all">
+        <img
+          src="./popcornhub.png"
+          alt="List"
+          class="w-[400px] h-[300px] object-cover"
+        />
+        <div class="p-6 text-left">
+          <h3 class="text-2xl font-semibold mb-2 text-yellow-400">
+             Popcorn Shop
+          </h3>
+          <p class="text-gray-400 text-sm mb-4">
+            A simeple popcorn shop app built with NextJs.
+          </p>
+          <a
+            href="https://drive.google.com/file/d/1nDYyoszP7D6rGxDpWQGeC3iTIB959usG/view?usp=sharing" target="_blank"
+            class="inline-block px-5 py-2 bg-yellow-600 hover:bg-indigo-700 rounded-xl font-medium transition-all"
+          >
+            Download Source Code
+          </a>
+        </div>
+      </div>
+
+
     </div>
   </div>
 </section>
